@@ -1,0 +1,3 @@
+{
+  cowsay.context = "images/cowsay"; 
+}
